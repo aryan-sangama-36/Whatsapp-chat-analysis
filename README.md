@@ -64,15 +64,19 @@ Click on "Show Analysis" to view various statistics and visualizations.
 
 ## Dependencies:
 
-streamlit 
+streamlit
 
 matplotlib
 
 seaborn
 
-pandas
+urlextract
 
 wordcloud
+
+pandas
+
+emoji
 
 
 ## Contributing:

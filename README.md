@@ -42,7 +42,7 @@ Run the Streamlit application:
 streamlit run app.py
 
 
-Open your web browser and go to  to access the application.
+Open your web browser and go to https://whatsapp-chat-analysis-aryan36-unofficial-intelligence.streamlit.app/ to access the application.
 
 
 Upload your WhatsApp chat file in the sidebar and select the user for analysis.
